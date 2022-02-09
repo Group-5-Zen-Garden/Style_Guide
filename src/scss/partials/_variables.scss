@@ -1,14 +1,15 @@
 // color palette - these colors will be the color swatches of the Colors section
-$color-1: #5f8ee4; // Cornflower Blue - Action color
-$color-2: #19191a; // Dark Blue
-$color-3: #e4655f; // Red
-$color-4: #e6e6e6; // light grey
-$color-5: #ffffff; // white
+$color-1: #330242; // Russian Violet
+$color-2: #9694B5; // Blue Bell
+$color-3: #EDFFFD; // Azure
+$color-4: #128F9D; // Viridian Green
+$color-5: #0B3B5E; // Indigo Dye
 
 // additional colors
-$success: #6fce72; // green
-$alert: $color-3; // red
+$success: #15CD72; // green
+$alert: #ED4F32; // red
 
 // fonts
-$primary-font: 'Merriweather', serif;
-$secondary-font: 'Open Sans', sans-serif;
+$primary-font: 'Josefin Sans', sans-serif;
+$header-font: 'Josefin Sans', sans-serif;
+$others-font: 'News Cycle', sans-serif;

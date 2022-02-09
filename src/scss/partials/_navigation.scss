@@ -6,8 +6,8 @@ header {
     /* logo box style */
     background-color: $color-1;
     width: 120px;
-  
-    @include MQ(M) {
+    @include MQ(M) 
+    {
       width: 180px;
     }
   }
