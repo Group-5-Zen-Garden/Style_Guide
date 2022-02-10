@@ -62,14 +62,16 @@ h1 {
 //KB 2/8: Navigation fonts changed to News Cycle ($others-font)
 .page_links {
   margin-bottom: 1.1%;
-  font-style: $others-font;
+  font-family: $others-font;
 }
 
+//
 .last_page_link {
   margin-bottom: 0;
-  font-style: $others-font;
+  font-family: $others-font;
 }
 
+ //hover effects for the links
 .page_links:hover, .last_page_link:hover {
   font-size: 1.1em;
   text-decoration: underline;
